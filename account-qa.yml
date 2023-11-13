@@ -1,0 +1,5 @@
+app:
+    profile: QA
+    version: 1 
+build:
+    version:1.1
